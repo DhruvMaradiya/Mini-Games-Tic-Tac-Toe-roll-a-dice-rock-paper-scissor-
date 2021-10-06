@@ -6,7 +6,7 @@ import random
 root = tkinter.Tk()
 root.geometry('400x400')
 root.title('Roll Dice')
-root.configure(bg="Black")
+root.configure(bg="#bf80ff")
 
 
 # image of Dices
